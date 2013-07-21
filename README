@@ -1,0 +1,12 @@
+This repository contains a subset of files from MogileFS-Server version 2.67
+and MogileFS-Utils version 2.27.  It is intended for use on hack.dreamwidth.net
+as documented at http://wiki.dwscoalition.org/wiki/index.php/MogileFS_setup
+
+If you are interested in using MogileFS for any other purpose, you should
+probably download it from the authoritative source:
+
+https://github.com/mogilefs/MogileFS-Server
+https://github.com/mogilefs/MogileFS-Utils
+
+
+_kareila at dreamwidth dot org // 8 Jul 2013_
